@@ -20,13 +20,6 @@
         {"name": "libraries.python2.fireeye"},
         {"name": "libraries.python3.fireeye"},
 
-        {"name": "ollydbg.flare"},
-        {"name": "ollydbg.ollydump.flare"},
-        {"name": "ollydbg.ollydumpex.flare"},
-
-        {"name": "ollydbg2.flare"},
-        {"name": "ollydbg2.ollydumpex.flare"},
-
         {"name": "x64dbg.flare"},
         {"name": "x64dbg.py.flare"},
         {"name": "x64dbg.ollydumpex.fireeye"},
@@ -38,14 +31,7 @@
         {"name": "windbg.pykd.flare"},
         {"name": "scdbg.flare"},
 
-
-        {"name": "idafree70.flare", "x64Only": true},
-        {"name": "idafree.flare"},
-        {"name": "binaryninja.flare"},
-        {"name": "radare2.flare"},
-        {"name": "cutter.flare"},
         {"name": "ghidra.fireeye"},
-
 
         {"name": "ilspy.flare"},
         {"name": "dnspy.flare"},
@@ -61,9 +47,7 @@
         {"name": "bytecode-viewer.flare"},
         {"name": "dex2jar.flare"},
 
-
         {"name": "vbdecompiler.flare"},
-
 
         {"name": "idr.small.flare"},
 
@@ -89,8 +73,6 @@
         {"name": "resourcehacker.flare"},
         {"name": "processdump.fireeye"},
 
-
-        {"name": "sublimetext3"},
         {"name": "notepadplusplus.flare"},
 
         {"name": "SilkETW.fireeye"},
@@ -101,7 +83,6 @@
         {"name": "lessmsi.fireeye"},
         {"name": "putty"},
         {"name": "wireshark.flare"},
-        {"name": "nmap.flare"},
         {"name": "winpcap"},
         {"name": "rawcap"},
         {"name": "wget"},
@@ -115,14 +96,12 @@
         {"name": "hashmyfiles.flare"},
         {"name": "regshot.flare"},
         {"name": "exeinfope.flare"},
-        {"name": "ncat.flare"},
         {"name": "shellcode_launcher.flare"},
         {"name": "xorsearch.flare"},
         {"name": "xorstrings.flare"},
         {"name": "yara.flare"},
         {"name": "kmdloader.flare"},
         {"name": "lordpe.flare"},
-        {"name": "googlechrome.flare"},
         {"name": "cyberchef.flare"},
         {"name": "py2exedecompiler.flare"},
         {"name": "pyinstxtractor.fireeye"},
@@ -157,7 +136,6 @@
 
         {"name": "PSDecode.fireeye"},
 
-        {"name": "burp.free.fireeye"},
         {"name": "fiddler.fireeye"},
         {"name": "HTTrack.fireeye"},
 
